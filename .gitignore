@@ -11,3 +11,6 @@ Version.java
 *.log
 *.jar
 *.tgz
+red4j-data/
+**/cp.txt
+**.java.orig
